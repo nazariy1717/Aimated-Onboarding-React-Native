@@ -1,6 +1,6 @@
 import {ImageProps} from "react-native";
 
-export const BGCOLOR = '#fff';
+export const BGCOLOR = '#f1f1f1';
 
 export interface PagesInterface extends Pick<ImageProps, 'source'>{
     title: string,
